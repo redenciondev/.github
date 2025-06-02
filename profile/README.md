@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/BHgRx2k1" alt="Redención REDM Banner">
+  <img src="https://i.ibb.co/TDH5SMyC/banner-pequeno.png" alt="Redención REDM Banner">
 </p>
 
 # Redención REDM
@@ -19,9 +19,9 @@ To create meaningful, cinematic-quality storytelling experiences driven by chara
 
 ## 🔧 Featured Repositories
 
-- `Malechores` – Criminal systems and interactive world events.
-- `api_ia_redencion` – AI-powered services and integrations.
-- `bots_discord_redencion` – Community automation for Discord.
+- ` – Criminal systems and interactive world events.
+- ` – AI-powered services and integrations.
+-  – Community automation for Discord.
 
 ## 👥 Our Team
 
@@ -31,3 +31,4 @@ We are a passionate group of developers and storytellers dedicated to delivering
 
 📫 Contact: [redencionrp@gmail.com](mailto:redencionrp@gmail.com)  
 🌐 Website: [redencion.cloud](https://redencion.cloud)
+a
